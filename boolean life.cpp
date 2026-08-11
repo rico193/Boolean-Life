@@ -4,6 +4,7 @@ using namespace std;
 
  int main()
 {
+    srand(time(0)); //seed random number generator
     cout << R"(
      ____   ___   ___  _     _____    _    _   _      _     ___ _____ _____ 
     | __ ) / _ \ / _ \| |   | ____|  / \  | \ | |    | |   |_ _|  ___| ____|

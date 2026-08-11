@@ -7,3 +7,19 @@ using namespace std;
  //Age Variable starts at 0, random events will occur as the player ages, based on age category. if age is in a specific range, certain events will be triggered according to it. I will be adding 15 events per category as I do not want the code to be too complex. Stress will lower health, and if health is low enough, it will eventually lead to death.
 
  //player will be able to enter his first name, and last name. Parent's names will be randomly generated. Player will be able to choose his gender, and the game will have some set rules I will define later.
+
+ //I have no idea how many functions there are gonna be lol
+ int main()
+{
+    cout << R"(
+     ____   ___   ___  _     _____    _    _   _      _     ___ _____ _____ 
+    | __ ) / _ \ / _ \| |   | ____|  / \  | \ | |    | |   |_ _|  ___| ____|
+    |  _ \| | | | | | | |   |  _|   / _ \ |  \| |    | |    | || |_  |  _|  
+    | |_) | |_| | |_| | |___| |___ / ___ \| |\  |    | |___ | ||  _| | |___ 
+    |____/ \___/ \___/|_____|_____/_/   \_\_| \_|    |_____|___|_|   |_____|
+                            
+                                    (Developed by Rico)   
+    )" << endl;
+    system("pause");
+
+}

@@ -1,3 +1,4 @@
+<img width="660" height="133" alt="Boolean Life Logo" src="https://github.com/user-attachments/assets/d74819c8-f80e-4613-9b67-7a3b5d069424" />
 # Boolean-Life
 My attempt at recreating bitlife in c++ in a terminal.
 </br>

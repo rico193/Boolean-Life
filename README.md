@@ -1,5 +1,3 @@
-<img width="660" height="133" alt="Boolean Life Logo" src="https://github.com/user-attachments/assets/d74819c8-f80e-4613-9b67-7a3b5d069424" />
-</br>
 # Boolean-Life
 My attempt at recreating bitlife in c++ in a terminal.
 </br>
@@ -12,3 +10,4 @@ This project is a copy/fork of the game known as "Bit Life" on Google Playstore.
 - Random events that occur according to age group.
 - Ability to maintain relationships.
 
+<img width="660" height="133" alt="Boolean Life Logo" src="https://github.com/user-attachments/assets/d74819c8-f80e-4613-9b67-7a3b5d069424" /> </br>

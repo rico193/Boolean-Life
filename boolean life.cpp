@@ -19,13 +19,19 @@ using namespace std;
     bool gameRunning = true;
     int age=0;
     int choice=-1;
-    string FirstName, LastName;
+    string FirstName,  LastName;
 
-    cout<<endl;
     while (gameRunning==true)
     {
         cout<<"+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n";
-        cout<<"Menu"<<endl;
+        cout<<"Options:"<<endl;
+        cout<<"Age+ <\n";
+        cout<<"Manage Relationships\n";
+        cout<<"Manage Finances\n";
+        cout<<"Manage Health\n";
+        cout<<"Manage Career\n";
+        cout<<"Manage Education\n";
+        cout<<"Manage Hobbies\n";
         cout<<"+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n";
         cout<<endl;
         cout<<"Enter your choice: ";
@@ -33,11 +39,23 @@ using namespace std;
         cout<<endl;
         if (choice==1)
         {
-            age++;
+            age++; //git add "boolean life.cpp" git commit -m "Added age increment feature" git push origin main     
         }
         //Reset value of choice to -1 to avoid infinite loop
-        choice=-1;
+        choice=-1;            
     }
 
 
-}
+}   
+
+
+
+
+
+
+
+
+
+
+
+

@@ -34,12 +34,14 @@ using namespace std;
     cout<<endl;
     cout<<"+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n";
     cout<<"Gender: "<<gender<<endl;
-    cout<<"Country: Boolean Land\n";    
-    cout<<"I was born a "<<gender<<" in Boolean Land\n";
     cout<<"Enter your first name: ";
     cin>>FirstName;
     cout<<"Enter your last name: ";
     cin>>LastName;
+    cout<<"Country: Boolean Land\n\n";    
+    cout<<"I was born a "<<gender<<" in Boolean Land\n";
+    cout<<"My name is "<<FirstName<<" "<<LastName<<".\n";
+    
     cout<<"+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\n";
     cout<<endl;
 
